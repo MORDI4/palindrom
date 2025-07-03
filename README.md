@@ -4,8 +4,8 @@ Funkcja do znajdowania palindormów, czyli wyrazów, które czytane od początku
 
 Przykład użycia:
 
-palindorm_check("Kajak")
+palindorm_check("kajak")
 >> True
 
-palindrom_check("Statek")
+palindrom_check("statek")
 >> False
